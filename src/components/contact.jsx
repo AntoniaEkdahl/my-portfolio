@@ -7,7 +7,7 @@ function Contact() {
       <h1 className="contactText">Get in touch with me via</h1>
       <div className="contactNavContainer">
         <a
-          className="navLink"
+          className="navLinkContact"
           href="https://www.linkedin.com/in/antonia-ekdahl/"
           target="_blank"
           rel="noopener noreferrer"
@@ -15,7 +15,7 @@ function Contact() {
           Linkedin
         </a>
         <a
-          className="navLink"
+          className="navLinkContact"
           target="_blank"
           rel="noreferrer noopener"
           href="mailto:antoniaekdahl@gmail.com"

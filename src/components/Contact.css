@@ -18,11 +18,12 @@
   text-align: center;
 }
 
-.navLink {
+.navLinkContact {
   text-decoration: none;
   color: rgb(0, 0, 0);
+  margin-right: 12px;
 }
 
-.navLink:hover {
-  color: white;
+.navLinkContact:hover {
+  color: rgb(204, 1, 89);
 }
