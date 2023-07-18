@@ -1,0 +1,28 @@
+.contactTitle {
+  width: 80%;
+  margin-top: 20px;
+  margin-left: 100px;
+  padding: 30px;
+  font-size: 1rem;
+}
+
+.contactText {
+  text-align: center;
+  width: 100%;
+  font-size: 1.5rem;
+  margin: 60px 0 25px 0;
+}
+
+.contactNavContainer {
+  width: 100%;
+  text-align: center;
+}
+
+.navLink {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+.navLink:hover {
+  color: white;
+}

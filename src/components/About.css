@@ -1,0 +1,18 @@
+.paragrafOne {
+  margin-bottom: 30px;
+}
+
+.aboutTitle {
+  width: 80%;
+  margin-top: 20px;
+  margin-left: 100px;
+  padding: 30px;
+  font-size: 1rem;
+}
+
+.aboutText {
+  max-width: 100vw;
+  width: 50%;
+  text-align: center;
+  margin: 60px 25px 0;
+}

@@ -1,0 +1,15 @@
+.workTitle {
+  width: 80%;
+  margin-top: 20px;
+  margin-left: 100px;
+  padding: 30px;
+  font-size: 1rem;
+}
+
+.container {
+  text-align: center;
+}
+
+.workContainer {
+  margin-bottom: 20px;
+}
