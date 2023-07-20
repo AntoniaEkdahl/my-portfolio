@@ -22,6 +22,8 @@ function Work() {
             target="_blank"
             rel="noreferrer noopener"
           >
+            <br />
+
             <Github />
           </a>
         </div>
@@ -40,6 +42,8 @@ function Work() {
             target="_blank"
             rel="noreferrer noopener"
           >
+            <br />
+
             <Github />
           </a>
         </div>
@@ -58,13 +62,14 @@ function Work() {
             target="_blank"
             rel="noreferrer noopener"
           >
+            <br />
             <Github />
           </a>
         </div>
         <div className="workContainer">
           Whack-a-mole
           <div>2023 | Education | Angular</div>
-          <a href="" target="_blank" rel="noreferrer noopener">
+          <a href="/" target="_blank" rel="noreferrer noopener">
             See project
           </a>
           <a
@@ -72,6 +77,7 @@ function Work() {
             target="_blank"
             rel="noreferrer noopener"
           >
+            <br />
             <Github />
           </a>
         </div>
@@ -97,14 +103,20 @@ function Work() {
             target="_blank"
             rel="noreferrer noopener"
           >
+            <br />
             <Github />
           </a>
         </div>
         <div className="workContainer">
           Ajax Weather
           <div>2022 | Education | Vanilla JS</div>
-          <a href="/" target="_blank" rel="noreferrer noopener">
-            See project
+          <a
+            href="https://github.com/AntoniaEkdahl/JS1-Uppgift2"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            <br />
+            <Github />
           </a>
         </div>
       </div>
