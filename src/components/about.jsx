@@ -5,7 +5,7 @@ function About() {
     <>
       <div className="aboutTitle">#about</div>
       <div className="aboutText">
-        <div className="paragrafOne">
+        <div className="paragraf">
           Hi, my name is Antonia Ekdahl i was born in 1992 and live in Malmö
           with a passion for learning and creating. I have currently finished my
           first year at the Frontend Developer program at EC Utbildning in
@@ -13,7 +13,7 @@ function About() {
           established solid knowledge in HTML, CSS and JavaScript including
           various frameworks.
         </div>
-        <div className="paragrafTwo">
+        <div className="paragraf">
           I have background and experience in social work and a bachelor in
           criminology with a specialization in psychiatric nursing.
         </div>

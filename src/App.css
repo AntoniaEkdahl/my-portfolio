@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Tinos&display=swap");
 
 body {
-  font-family: "Tinos", serif;
-  font-weight: bold;
+  font-family: Poppins, Arial, sans-serif;
+  font-weight: normal;
   background-color: rgb(237, 144, 144);
   color: rgb(0, 0, 0);
 }
