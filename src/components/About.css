@@ -12,8 +12,14 @@
 }
 
 .aboutText {
-  max-width: 40vw;
+  width: 60%;
   margin: auto;
   text-align: justify;
   font-size: 0.9rem;
+}
+
+.img {
+  width: 230px;
+  opacity: 0.9;
+  border-radius: 50%;
 }
