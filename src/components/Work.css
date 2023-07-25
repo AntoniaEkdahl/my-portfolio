@@ -12,10 +12,19 @@
 }
 
 .workContainer {
-  margin-bottom: 20px;
+  margin-bottom: 60px;
 }
 
-a {
-  text-decoration: none;
+.projectLink {
+  display: inline-block;
+  margin-top: 10px;
   color: black;
+}
+
+.projectLink:hover {
+  color: rgb(204, 1, 89);
+}
+
+h1 {
+  margin-bottom: 30px;
 }
