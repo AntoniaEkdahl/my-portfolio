@@ -23,3 +23,17 @@
   opacity: 0.9;
   border-radius: 50%;
 }
+
+.resumeContainer {
+  text-align: center;
+}
+
+.resumeLink {
+  display: inline-block;
+  margin-top: 10px;
+  color: rgb(204, 1, 89);
+}
+
+.resumeLink:hover {
+  color: rgb(204, 1, 89);
+}

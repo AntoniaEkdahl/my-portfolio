@@ -17,8 +17,13 @@ function About() {
           I have background and experience in social work and a bachelor in
           criminology with a specialization in psychiatric nursing.
         </div>
-        <div>
-          <a href=".." target="_blank">
+        <div className="resumeContainer">
+          <a
+            href="https://drive.google.com/file/d/1BQLYIUlXwNZA8-7nzyMGak-IyMY5ULs3/view?usp=drive_link"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="resumeLink"
+          >
             My resume
           </a>
         </div>
