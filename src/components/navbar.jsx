@@ -13,11 +13,11 @@ function Navbar() {
           <Link to="about" className="navLink">
             About
           </Link>
-          <Link to="contact" className="navLink">
-            Contact
-          </Link>
           <Link to="work" className="navLink">
             Work
+          </Link>
+          <Link to="contact" className="navLink">
+            Contact
           </Link>
         </div>
 

@@ -3,7 +3,6 @@ import "./Home.css";
 function Home() {
   return (
     <>
-      <div className="homeTitle">#home</div>
       <div className="textContainer show">
         <h1 className="title">
           Hello,
@@ -12,8 +11,8 @@ function Home() {
         </h1>
         <div className="homeText">
           I´m a Frontend Developer student based in Malmö, with an interest in
-          finding creative solutions to develop visually appealing websites. And
-          always curious to learn more.
+          finding creative solutions to develop visually appealing websites.
+          <br />I love exploring and creating. I'm a lifelong learner.
         </div>
       </div>
     </>

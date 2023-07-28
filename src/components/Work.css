@@ -1,3 +1,7 @@
+.workContainer {
+  height: 100vh;
+}
+
 .workTitle {
   width: 80%;
   margin-top: 20px;
@@ -11,7 +15,7 @@
   text-align: center;
 }
 
-.workContainer {
+.project {
   margin-bottom: 60px;
 }
 
