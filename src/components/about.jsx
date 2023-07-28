@@ -5,6 +5,14 @@ function About() {
     <>
       <div className="aboutContainer" id="about">
         <div className="aboutTitle">#about</div>
+        <div className="imgContainer">
+          <img
+            className="img"
+            src="/assets/images/AntoniaEkdahl.jpg"
+            alt="Antonia Ekdahl"
+            // width={230}
+          />
+        </div>
         <div className="aboutText">
           <div className="paragraf">
             Hi, my name is Antonia Ekdahl i was born in 1992 and live in Malmö

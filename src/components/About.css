@@ -1,5 +1,6 @@
 .aboutContainer {
   height: 100vh;
+  padding-top: 150px;
 }
 
 .paragraf {
@@ -8,9 +9,7 @@
 
 .aboutTitle {
   width: 80%;
-  margin-top: 20px;
-  margin-left: 100px;
-  padding: 30px;
+  margin: 0 0 20px 100px;
   font-size: 1rem;
   font-family: Cako, Times, serif;
 }
@@ -22,10 +21,14 @@
   font-size: 0.9rem;
 }
 
+.imgContainer {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
 .img {
-  width: 230px;
-  opacity: 0.9;
   border-radius: 50%;
+  width: 230px;
 }
 
 .resumeContainer {

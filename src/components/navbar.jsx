@@ -5,7 +5,7 @@ import { HashLink } from "react-router-hash-link";
 function Navbar() {
   return (
     <>
-      <div className="navbar">
+      <div className="navbar sticky">
         <div>
           <HashLink smooth to="/#home" className="navLink">
             Home

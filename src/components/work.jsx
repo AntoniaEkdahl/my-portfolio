@@ -7,7 +7,6 @@ function Work() {
       <div className="workContainer" id="work">
         <div className="workTitle">#work</div>
         <div className="container">
-          <h1>This is the work page</h1>
           <div className="project">
             Webshop React
             <div>2023 | Education | React</div>

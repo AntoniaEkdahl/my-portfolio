@@ -3,7 +3,7 @@ import "./Home.css";
 function Home() {
   return (
     <>
-      <div className="textContainer show" id="home">
+      <div className="textContainer" id="home">
         <h1 className="title">
           Hello,
           <br />
