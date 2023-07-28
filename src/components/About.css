@@ -39,8 +39,13 @@
   display: inline-block;
   margin-top: 10px;
   color: rgb(204, 1, 89);
+  font-family: Cako, Times, serif;
+  font-size: 1.2rem;
 }
 
 .resumeLink:hover {
-  color: rgb(204, 1, 89);
+  background-color: rgb(204, 1, 89);
+  border-radius: 15px 50px;
+  color: rgb(237, 144, 144);
+  padding: 9px;
 }
