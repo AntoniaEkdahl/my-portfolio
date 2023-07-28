@@ -4,7 +4,7 @@ import { Github } from "react-bootstrap-icons";
 function Work() {
   return (
     <>
-      <div className="workContainer">
+      <div className="workContainer" id="work">
         <div className="workTitle">#work</div>
         <div className="container">
           <h1>This is the work page</h1>

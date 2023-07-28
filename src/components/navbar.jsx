@@ -1,24 +1,24 @@
-import { Link } from "react-router-dom";
 import "./NavBar.css";
 import { Github, Linkedin } from "react-bootstrap-icons";
+import { HashLink } from "react-router-hash-link";
 
 function Navbar() {
   return (
     <>
       <div className="navbar">
         <div>
-          <Link to="/" className="navLink">
+          <HashLink smooth to="/#home" className="navLink">
             Home
-          </Link>
-          <Link to="about" className="navLink">
+          </HashLink>
+          <HashLink smooth to="/#about" className="navLink">
             About
-          </Link>
-          <Link to="work" className="navLink">
+          </HashLink>
+          <HashLink smooth to="/#work" className="navLink">
             Work
-          </Link>
-          <Link to="contact" className="navLink">
+          </HashLink>
+          <HashLink smooth to="/#contact" className="navLink">
             Contact
-          </Link>
+          </HashLink>
         </div>
 
         <div className="navSocial">
