@@ -20,6 +20,10 @@
   margin-bottom: 60px;
 }
 
+.projectTitle {
+  font-weight: 550;
+  margin-bottom: 5px;
+}
 .projectLink {
   display: inline-block;
   margin-top: 10px;

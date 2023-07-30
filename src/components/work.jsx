@@ -8,7 +8,7 @@ function Work() {
         <div className="workTitle">#work</div>
         <div className="container">
           <div className="project">
-            Webshop React
+            <div className="projectTitle"> Webshop React</div>
             <div>2023 | Education | React</div>
             <a
               className="projectLink"
@@ -29,7 +29,7 @@ function Work() {
             </a>
           </div>
           <div className="project">
-            MineSweeper
+            <div className="projectTitle"> MineSweeper</div>
             <div>2023 | Education | React</div>
             <a
               className="projectLink"
@@ -50,7 +50,7 @@ function Work() {
             </a>
           </div>
           <div className="project">
-            Digital Clock
+            <div className="projectTitle">Digital Clock</div>
             <div>2023 | Education | React</div>
             <a
               className="projectLink"
@@ -71,7 +71,7 @@ function Work() {
             </a>
           </div>
           <div className="project">
-            Whack-a-mole
+            <div className="projectTitle">Whack-a-mole</div>
             <div>2023 | Education | Angular</div>
             <a
               className="projectLink"
@@ -92,7 +92,7 @@ function Work() {
             </a>
           </div>
           <div className="project">
-            Boring-API
+            <div className="projectTitle">Boring-API</div>
             <div>2023 | Education | Angular</div>
             <a
               className="projectLink"
@@ -112,8 +112,8 @@ function Work() {
               <Github />
             </a>
           </div>
-          <div className="proejct">
-            Project StarWars
+          <div className="project">
+            <div className="projectTitle">Project StarWars</div>
             <div>2022 | Education - group project | Vanilla JS</div>
             <a
               className="projectLink"
@@ -134,7 +134,7 @@ function Work() {
             </a>
           </div>
           <div className="project">
-            Ajax Weather in Malmö
+            <div className="projectTitle">Ajax Weather in Malmö</div>
             <div>2022 | Education | Vanilla JS</div>
             <a
               className="projectLink"
@@ -155,7 +155,7 @@ function Work() {
             </a>
           </div>
           <div className="project">
-            IKEA - replica
+            <div className="projectTitle">IKEA - replica</div>
             <div>2022 | Education | CSS </div>
             <a
               className="projectLink"
