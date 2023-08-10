@@ -3,7 +3,7 @@ import "./Home.css";
 function Home() {
   return (
     <>
-      <div className="textContainer" id="home">
+      <div reappear className="textContainer" id="home">
         <h1 className="title animate__fadeInUp">
           Hello,
           <br />
