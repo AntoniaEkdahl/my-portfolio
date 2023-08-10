@@ -25,6 +25,11 @@ function About() {
             I have background and experience in social work and a bachelor in
             criminology with a specialization in psychiatric nursing.
           </div>
+          <div className="paragraf">
+            Right now, I am looking for an internship for this fall, 2023, where
+            I can use and boost my skills in frontend development. Feel free to
+            contact me if you have any recommendation or internship to offer.{" "}
+          </div>
           <div className="resumeContainer">
             <a
               href="https://drive.google.com/file/d/1BQLYIUlXwNZA8-7nzyMGak-IyMY5ULs3/view?usp=drive_link"
