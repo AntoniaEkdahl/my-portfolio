@@ -10,7 +10,6 @@ function About() {
             className="img"
             src="/assets/images/AntoniaEkdahl.jpg"
             alt="Antonia Ekdahl"
-            // width={230}
           />
         </div>
         <div className="aboutText">
