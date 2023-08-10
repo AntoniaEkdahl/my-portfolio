@@ -22,13 +22,14 @@
 
 .contactNavContainer {
   width: 100%;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 25px;
 }
 
 .navLinkContact {
   text-decoration: none;
   color: rgb(0, 0, 0);
-  margin-right: 35px;
 }
 
 .navLinkContact:hover {
