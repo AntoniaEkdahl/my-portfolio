@@ -14,7 +14,7 @@ function About() {
         </div>
         <div className="aboutText">
           <div className="paragraf">
-            Hi, my name is Antonia Ekdahl i was born in 1992 and live in Malmö
+            Hi, my name is Antonia Ekdahl I was born in 1992 and live in Malmö
             with a passion for learning and creating. I have currently finished
             my first year at the Frontend Developer program at EC Utbildning in
             Helsingborg. During this initial time of the education I have
@@ -22,8 +22,9 @@ function About() {
             various frameworks.
           </div>
           <div className="paragraf">
-            I have background and experience in social work and a bachelor in
-            criminology with a specialization in psychiatric nursing.
+            I have background and experience in social work and I have a
+            bachelor in criminology with a specialisation in psychiatric
+            nursing.
           </div>
           <div className="paragraf">
             Right now, I am looking for an internship for this fall where I can
