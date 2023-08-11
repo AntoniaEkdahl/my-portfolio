@@ -1,6 +1,7 @@
 .aboutContainer {
   height: 100vh;
   padding-top: 150px;
+  margin-bottom: 150px;
 }
 
 .paragraf {
@@ -51,4 +52,8 @@
   border-radius: 15px 50px;
   color: rgb(237, 144, 144);
   padding: 2px 8px;
+}
+
+.gap {
+  margin-bottom: 70px;
 }

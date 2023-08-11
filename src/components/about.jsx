@@ -28,7 +28,7 @@ function About() {
           <div className="paragraf">
             Right now, I am looking for an internship for this fall where I can
             use and boost my skills in frontend development. The periods are 20
-            November 2023 – 9 February 2024 samt 11 March – 7 June 2024. Feel
+            November 2023 – 9 February 2024 and 11 March – 7 June 2024. Feel
             free to contact me if you have any recommendation or internship to
             offer.{" "}
           </div>
