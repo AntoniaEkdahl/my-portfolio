@@ -27,10 +27,11 @@ function About() {
             nursing.
           </div>
           <div className="paragraf">
-            Right now, I am looking for an internship for this fall where I can
-            use and boost my skills in frontend development. The period are 20
-            November 2023 – 9 February 2024. Feel free to contact me if you have
-            any recommendation or internship to offer.{" "}
+            Right now, I've just completed my first internship at Capace Media,
+            and I have my second internship scheduled from March 11th to June
+            7th. Following that, my Frontend Developer program is finished, and
+            I'm all set for the professional world. I'm looking forward to the
+            next step in my career.
           </div>
           <div className="resumeContainer">
             <a
