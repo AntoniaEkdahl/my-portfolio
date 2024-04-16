@@ -27,11 +27,11 @@ function About() {
             nursing.
           </div>
           <div className="paragraf">
-            Right now, I've just completed my first internship at Capace Media,
-            and I have my second internship scheduled from March 11th to June
-            7th. Following that, my Frontend Developer program is finished, and
-            I'm all set for the professional world. I'm looking forward to the
-            next step in my career.
+            I've completed my first internship at Capace Media. Now i'm at my
+            second internship scheduled until June 7th 2024. Following that, my
+            Frontend Developer program is finished, and I'm all set for the
+            professional world. I'm looking forward to the next step in my
+            career.
           </div>
           <div className="resumeContainer">
             <a
